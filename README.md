@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyStudy](https://github.com/manusmd/mystudy)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Docker and more about deployment**
 
 - 📫 How to reach me **info@manu-web.de**
 
