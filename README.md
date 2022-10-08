@@ -2,7 +2,7 @@
 <h3 align="center">A junior frontend developer from the south of germany</h3>
 
 - 🔭 I’m currently working on a secret project 🤫
-- 🌱 I’m currently learning **Docker and more about deployment**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **info@manu-web.de**
 
